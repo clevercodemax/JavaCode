@@ -1,1 +1,2 @@
 Repo test status + text from test_temp_repo
+new text from base commit
