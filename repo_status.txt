@@ -2,3 +2,4 @@ Repo test status + text from test_temp_repo
 new text from base commit
 answer from dir one for dir two
 ++ branch changed
+++ branch demo changed
