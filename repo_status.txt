@@ -1,1 +1,1 @@
-Repo test status
+Repo test status + text from test_temp_repo
